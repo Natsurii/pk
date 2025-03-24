@@ -7,8 +7,8 @@
         <mxCell id="22YflQM4wUS7B66htp8I-1" value="&lt;h1&gt;&lt;font&gt;Project K&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=72;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="640" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Vrv7HuH3_AHhh5LHu28m-1" value="&lt;h1&gt;Ortholinear Split Type 35 Keyboard&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="40" y="460" width="520" height="20" as="geometry" />
+        <mxCell id="Vrv7HuH3_AHhh5LHu28m-1" value="&lt;h1&gt;35-Key Ortholinear Split Type Ergonomic Keyboard&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="460" width="670" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vrv7HuH3_AHhh5LHu28m-2" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Design Plan&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="500" width="520" height="20" as="geometry" />
@@ -275,33 +275,171 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y8yaiR_SnF9OcwPiy_A2" name="02_ Market">
-    <mxGraphModel dx="1235" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t5SF9EK1OkuX5LNVLoUw-1" value="&lt;h1&gt;Project K - Market Research and Analysis&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5SF9EK1OkuX5LNVLoUw-1" value="&lt;h1&gt;Project K - Market Research and Analysis&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="85" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5SF9EK1OkuX5LNVLoUw-2" value="&lt;h5&gt;version 00.00.01_DRAFT&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5SF9EK1OkuX5LNVLoUw-2" value="&lt;h5&gt;version 00.00.01_DRAFT&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="483" y="95" width="320" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="t5SF9EK1OkuX5LNVLoUw-3" value="&lt;h5&gt;Revision Date: March 23, 2025&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5SF9EK1OkuX5LNVLoUw-3" value="&lt;h5&gt;Revision Date: March 23, 2025&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="483" y="111" width="320" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="t5SF9EK1OkuX5LNVLoUw-4" value="&lt;h5&gt;Author: Natsurii&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5SF9EK1OkuX5LNVLoUw-4" value="&lt;h5&gt;Author: Natsurii&lt;/h5&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="483" y="80" width="320" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ZT7jzalReHoglXU1D2AI-1" value="&lt;h6&gt;Target Audience&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="ZT7jzalReHoglXU1D2AI-1" value="&lt;h6&gt;Target Audience&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZT7jzalReHoglXU1D2AI-2" value="&lt;div&gt;There is no target audience set to this product. This is intended for personal use only. However, if this product will enter on mass production stage, it will targeted to the hobbyists who are into custom keyboard hobby.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="ZT7jzalReHoglXU1D2AI-2" value="&lt;div&gt;There is no target audience set to this product. This is intended for personal use only. However, if this product will enter on mass production stage, it will targeted to the hobbyists who are into custom keyboard hobby.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZT7jzalReHoglXU1D2AI-4" value="&lt;h6&gt;User Personas&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="160" height="40" as="geometry" />
+        <mxCell id="ZT7jzalReHoglXU1D2AI-4" value="&lt;h6&gt;User Personas&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="260" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8cjtohigMgfVMyMLrHz-1" value="TBD." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="760" height="40" as="geometry" />
+        <mxCell id="BiVQurthsv10KSRZg5MD-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="760" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry width="760" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-3" value="&lt;b&gt;User&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-2">
+          <mxGeometry width="80" height="135" as="geometry">
+            <mxRectangle width="80" height="135" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-4" value="Alex A.&lt;div&gt;Software Engineer&lt;/div&gt;&lt;div&gt;Advance Technical Expertise&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-2">
+          <mxGeometry x="80" width="220" height="135" as="geometry">
+            <mxRectangle width="220" height="135" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-5" value="Drape G.&lt;div&gt;Hobbyist&lt;/div&gt;&lt;div&gt;Intermediate Technical Expertise&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-2">
+          <mxGeometry x="300" width="240" height="135" as="geometry">
+            <mxRectangle width="240" height="135" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-6" value="Carl W.&lt;div&gt;Average Salaryman&lt;/div&gt;&lt;div&gt;Low Technical Expertise&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-2">
+          <mxGeometry x="540" width="220" height="135" as="geometry">
+            <mxRectangle width="220" height="135" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry y="135" width="760" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-8" value="&lt;b&gt;Background&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-7">
+          <mxGeometry width="80" height="125" as="geometry">
+            <mxRectangle width="80" height="125" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-9" value="Spends the day-to-day in front of computer.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Uses vim shortcuts because mouse slows down his workflow. He has some macros in his keyboard kit to speed up development process.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;" vertex="1" parent="BiVQurthsv10KSRZg5MD-7">
+          <mxGeometry x="80" width="220" height="125" as="geometry">
+            <mxRectangle width="220" height="125" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-10" value="He&#39;s bartender at work. His hobby is to collect obscure, customizable, yet functional keyboard. He likes to explore different keyboard layout such as Dvorak. He just like keyboard but has limited technical expertise in software and hardware. He mods his keyboard passionately." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=middle;" vertex="1" parent="BiVQurthsv10KSRZg5MD-7">
+          <mxGeometry x="300" width="240" height="125" as="geometry">
+            <mxRectangle width="240" height="125" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-11" value="Is a government worker, barely touched a computer. He learn how to type during middle school. He is not a technical person, yet he is a minimalist who likes smaller setups. He doesn&#39;t care if he lost some of the keys as long it fits to the overall desk aesthetics." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-7">
+          <mxGeometry x="540" width="220" height="125" as="geometry">
+            <mxRectangle width="220" height="125" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry y="260" width="760" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-13" value="&lt;b&gt;Goals and needs&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-12">
+          <mxGeometry width="80" height="116" as="geometry">
+            <mxRectangle width="80" height="116" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-14" value="&lt;ul&gt;&lt;li&gt;Needs all the shortcuts&lt;/li&gt;&lt;li&gt;Accessible custom keys for his macros&lt;/li&gt;&lt;li&gt;Efficient code editing without mouse&lt;/li&gt;&lt;li&gt;Reduce strain of repetitive use&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-12">
+          <mxGeometry x="80" width="220" height="116" as="geometry">
+            <mxRectangle width="220" height="116" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-15" value="&lt;ul&gt;&lt;li&gt;Discover unique keyboard models&lt;/li&gt;&lt;li&gt;Experiment keyboard layouts with comfort&lt;/li&gt;&lt;li&gt;Customizes switches and keys for aesthetics and functionality&lt;/li&gt;&lt;li&gt;Learn Firmware in beginner way&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-12">
+          <mxGeometry x="300" width="240" height="116" as="geometry">
+            <mxRectangle width="240" height="116" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-16" value="&lt;ul&gt;&lt;li&gt;small and stylish keyboard that complements his desk&lt;/li&gt;&lt;li&gt;simple plug and play setup, no complicated software required&lt;/li&gt;&lt;li&gt;Reliable and durable keyboard for occasional typing&lt;/li&gt;&lt;li&gt;Minimal maintainance&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-12">
+          <mxGeometry x="540" width="220" height="116" as="geometry">
+            <mxRectangle width="220" height="116" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry y="376" width="760" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-18" value="&lt;b&gt;Pain Points&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-17">
+          <mxGeometry width="80" height="122" as="geometry">
+            <mxRectangle width="80" height="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-19" value="&lt;ul&gt;&lt;li&gt;Lack of keyboard navigation for his vim shortcuts&lt;/li&gt;&lt;li&gt;Non-customizable, non-intuitive shortcut keys&lt;/li&gt;&lt;li&gt;Has experience difficulty in navigating UI due to non-intuitive shortcuts&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-17">
+          <mxGeometry x="80" width="220" height="122" as="geometry">
+            <mxRectangle width="220" height="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-20" value="&lt;ul&gt;&lt;li&gt;Struggles with firmware tweaking&lt;/li&gt;&lt;li&gt;Find some technical resources too overwhelming&lt;/li&gt;&lt;li&gt;Expensive hobby&lt;/li&gt;&lt;li&gt;Limited community guides for less common layout and configuration&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-17">
+          <mxGeometry x="300" width="240" height="122" as="geometry">
+            <mxRectangle width="240" height="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-21" value="&lt;ul&gt;&lt;li&gt;Finds keyboard jargon confusing&lt;/li&gt;&lt;li&gt;Struggles with other keyboard layouts&lt;/li&gt;&lt;li&gt;Prefers physical buttons instead of touch screens or pads&lt;/li&gt;&lt;li&gt;Doesn&#39;t want to deal with bluetooth pairing issues&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-17">
+          <mxGeometry x="540" width="220" height="122" as="geometry">
+            <mxRectangle width="220" height="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry y="498" width="760" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-23" value="&lt;b&gt;Preferered Tools and Devices&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-22">
+          <mxGeometry width="80" height="82" as="geometry">
+            <mxRectangle width="80" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-24" value="&lt;b&gt;Software: &lt;/b&gt;Vim, Terminals, Tiling Manager&lt;div&gt;&lt;b&gt;Hardware: &lt;/b&gt;Keyboard with remmapable key map&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-22">
+          <mxGeometry x="80" width="220" height="82" as="geometry">
+            <mxRectangle width="220" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-25" value="&lt;b&gt;Hardware: &lt;/b&gt;Custom Keyboards, Switches, and Caps&lt;div&gt;&lt;b&gt;Software: &lt;/b&gt;Via for key remapping, QMK for FW tweaks&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-22">
+          <mxGeometry x="300" width="240" height="82" as="geometry">
+            <mxRectangle width="240" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-26" value="&lt;b&gt;Hardware: &lt;/b&gt;60-65% Form factor keyboards, low profile, monochrome&lt;div&gt;&lt;b&gt;Software: &lt;/b&gt;No custom software, uses default out of the box&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-22">
+          <mxGeometry x="540" width="220" height="82" as="geometry">
+            <mxRectangle width="220" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="BiVQurthsv10KSRZg5MD-1">
+          <mxGeometry y="580" width="760" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-28" value="&lt;b&gt;Behaviour and Usage Patterns&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="BiVQurthsv10KSRZg5MD-27">
+          <mxGeometry width="80" height="150" as="geometry">
+            <mxRectangle width="80" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-29" value="&lt;ul&gt;&lt;li&gt;Uses shortcuts by a lot&lt;/li&gt;&lt;li&gt;Prefers CLI instead of GUI&lt;/li&gt;&lt;li&gt;Uses macros&lt;/li&gt;&lt;li&gt;Actively modify key bindings to match workflow needs&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-27">
+          <mxGeometry x="80" width="220" height="150" as="geometry">
+            <mxRectangle width="220" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-30" value="&lt;ul&gt;&lt;li&gt;Loves to explore different type of hardware configurations&lt;/li&gt;&lt;li&gt;Enjoys the feeling of typing on different keyboard build&lt;/li&gt;&lt;li&gt;Always on keyboard meetups, buys limited keycap drops&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-27">
+          <mxGeometry x="300" width="240" height="150" as="geometry">
+            <mxRectangle width="240" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiVQurthsv10KSRZg5MD-31" value="&lt;ul&gt;&lt;li&gt;Uses it for basic tasks like emails, browsing, surfing doom scrolling&lt;/li&gt;&lt;li&gt;Likes compact keyboards doesn&#39;t care customizability&lt;/li&gt;&lt;li&gt;He sticks keyboards for years&lt;/li&gt;&lt;li&gt;Doesn&#39;t care RGB, Hot swap or wireless connectivity&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="BiVQurthsv10KSRZg5MD-27">
+          <mxGeometry x="540" width="220" height="150" as="geometry">
+            <mxRectangle width="220" height="150" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
